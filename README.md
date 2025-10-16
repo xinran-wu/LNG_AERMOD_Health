@@ -13,7 +13,7 @@ The repository includes:
 ## Data Availability
 
 Due to confidentiality concerns, full output data are not publicly available in this repository because these outputs may contain industry and facility-specific information.
-Researchers interested in accessing the full output datasets may contact the author directly to discuss availability.
+Researchers interested in accessing the full output datasets may contact the authors directly to discuss availability.
 
 ## Citation
 
